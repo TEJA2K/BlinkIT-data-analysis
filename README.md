@@ -16,6 +16,9 @@ The dataset contains details about various grocery items, including:
 - Average Customer Rating: 4.0
 - Sales Breakdown by Outlet Size, Type, and Location
 - Customer Ratings
+  
+## 📷 Dashboard Preview
+![BlinkIT dashboard](https://github.com/user-attachments/assets/9daa3a99-a194-4811-9c14-555792043a6d)
 
 ## 📈 Insights from the Dashboard
 - Most Profitable Category: Fruits & Vegetables with $178.1K in sales.
@@ -28,10 +31,7 @@ The dataset contains details about various grocery items, including:
 - Excel Features: Pivot Tables, Pivot Charts, Data Validation, Slicers, Conditional Formatting
 - Visualization: Pie Charts, Bar Graphs, Line Charts
 - Dashboard Creation: Excel Dashboard with interactive filters
-
-## 📷 Dashboard Preview
-![BlinkIT dashboard](https://github.com/user-attachments/assets/9daa3a99-a194-4811-9c14-555792043a6d)
-
+  
 ## 🚀 How to Use
 - Open the BlinkIT Grocery Data Excel.xlsx file in Excel.
 - Explore the Pivot and Dashboard sheets to analyze sales trends.
